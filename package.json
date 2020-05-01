@@ -1,6 +1,6 @@
 {
   "name": "github-finder-udemy",
-  "homepage": "https://grantkyle.github.io/employee-directory/",
+  "homepage": "http://grantkyle.github.io/employee-directory/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
